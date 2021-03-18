@@ -1,4 +1,5 @@
 # BingWallpaper（必应壁纸）
+[![](https://data.jsdelivr.com/v1/package/gh/myseil/BingWallpaper/badge)](https://www.jsdelivr.com/package/gh/myseil/BingWallpaper)
 
 ## 项目说明
 
