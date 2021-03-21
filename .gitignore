@@ -1,7 +1,6 @@
 # ALL ZIP
 *.zip
 *.ini
-.*
 *.db
 *@eaDir
 Thumbs.db
