@@ -10,7 +10,7 @@
 
 PS.通过`https://cdn.jsdelivr.net/gh/`对GitHub资源进行加速
 
-## 网站
+## 打包下载
 
 <http://bimg.top>
 
