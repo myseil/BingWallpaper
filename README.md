@@ -9,3 +9,13 @@
 用法：`https://cdn.jsdelivr.net/gh/myseil/BingWallpaper/BingImage/[日期]/[图片名称]`
 
 PS.通过`https://cdn.jsdelivr.net/gh/`对GitHub资源进行加速
+
+## 网站
+
+<http://bimg.top>
+
+### 请我喝杯奶茶
+
+![请我喝杯奶茶](http://qiniu.bimg.top/weizan.jpg!webp)
+
+
