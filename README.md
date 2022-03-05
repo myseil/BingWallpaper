@@ -14,6 +14,6 @@ PS.通过`https://cdn.jsdelivr.net/gh/`对GitHub资源进行加速
 
 <http://bimg.top>
 
-### 请我喝杯奶茶
+### 请我喝杯奶茶!
 
 ![请我喝杯奶茶](http://qiniu.bimg.top/weizan.jpg!webp)
