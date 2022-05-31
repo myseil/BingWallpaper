@@ -9,7 +9,7 @@
 用法：`https://cdn.jsdelivr.net/gh/myseil/BingWallpaper/BingImage/[日期]/[图片名称]`
 
  失效可以通过将`cdn.jsdelivr.net`替换为`fastly.jsdelivr.net`
-PS.通过`https://cdn.jsdelivr.net/gh/`对GitHub资源进行加速。
+ PS.通过`https://cdn.jsdelivr.net/gh/`对GitHub资源进行加速。
 
 ## 打包下载
 
