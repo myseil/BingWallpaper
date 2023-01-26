@@ -3,9 +3,10 @@
 ## 项目说明
 <div align="center">
 收集[必应](https://bing.com/)每日壁纸
-![repo size][repo-size-image]
-[repo-size-image]: https://img.shields.io/github/repo-size/myseil/BingWallpaper
+
+![repo size](https://img.shields.io/github/repo-size/myseil/BingWallpaper)
 </div>
+
 ## 如何使用
 
 用法：`https://cdn.jsdelivr.net/gh/myseil/BingWallpaper/BingImage/[日期]/[图片名称]`
