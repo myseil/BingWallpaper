@@ -1,6 +1,6 @@
 ## 项目说明
 <div align="center">
- ![Static Badge](https://img.shields.io/github/repo-size/myseil/BingWallpaper)
+必应中国首页每日图片
 </div>
 
 ## 如何使用
