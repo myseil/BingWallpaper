@@ -1,9 +1,6 @@
 ## 项目说明
 <div align="center">
-bing.com首页每日图片 
  ![Static Badge](https://img.shields.io/github/repo-size/myseil/BingWallpaper)
-
-
 </div>
 
 ## 如何使用
