@@ -1,6 +1,7 @@
 ## 项目说明
 <div align="center">
 收集[必应](https://bing.com/) 每日壁纸
+ 
 ![repo size](https://img.shields.io/github/repo-size/myseil/BingWallpaper)
 </div>
 
