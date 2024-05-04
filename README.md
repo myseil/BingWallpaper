@@ -1,6 +1,7 @@
 ## 项目说明
 <div align="center">
-<a href="https://cn.bing.com">必应中国</a>首页每日图片,目前已收集<img src="https://img.shields.io/github/repo-size/myseil/BingWallpaper">
+<a href="https://cn.bing.com">必应中国</a>首页每日图片<br />
+<img src="https://img.shields.io/github/repo-size/myseil/BingWallpaper">
 </div>
 
 ## 如何使用
