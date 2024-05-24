@@ -6,10 +6,9 @@
 
 ## 如何使用
 
-用法：`https://cdn.jsdelivr.net/gh/myseil/BingWallpaper/BingImage/[日期]/[图片名称]`
+合集下载可以通过 <a href="https://photo.baidu.com/photo/wap/albumShare/invite/MRjRGUJHBa?from=webcreate"> 一刻相册 </a>
+欢迎Start！
 
- 失效可以通过将`cdn.jsdelivr.net`替换为`fastly.jsdelivr.net`
- PS.通过`https://cdn.jsdelivr.net/gh/`对GitHub资源进行加速。
 
 ### 说明：
  Bimg.Top网站被封了，以后这里更新！
