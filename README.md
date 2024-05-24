@@ -16,3 +16,6 @@
 ### 请我喝杯奶茶!
  - 没心情喝奶茶了！
 
+## 统计
+---
+[![Stargazers over time](https://starchart.cc/myseil/BingWallpaper.svg?variant=adaptive)](https://starchart.cc/myseil/BingWallpaper)
